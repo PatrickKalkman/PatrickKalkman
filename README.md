@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on a Machine Learning project
 - 💬 Ask me about Software Architecture & Microsoft .Net Development
 - 📫 How to reach me: patrick at simpletechture.nl
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📸 I love to photograph, check my [instagram](https://www.instagram.com/patrick_kalkman.photography/)  
 
+![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrickkalkman&count_private=true)
