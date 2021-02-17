@@ -12,4 +12,9 @@
 - 📸 I love to photograph, check my [instagram](https://www.instagram.com/patrick_kalkman.photography/)  
 - Certified TensorFlow Developer
 
-![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrickkalkman&count_private=true)
+![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrickkalkman&count_private=true&show_icons=true&theme=algolia)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/arnaldog12/count.svg" />
+</p>
