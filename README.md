@@ -28,5 +28,9 @@
 <br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [6 Things To Know When Dockerizing Microsoft .NET Apps in Production](https://levelup.gitconnected.com/6-things-to-know-when-dockerizing-microsoft-net-apps-in-production-45b8c27a41b0?source=rss-e42a3542bc38------2)
+- [Create a Galaga Clone Using Pygame](https://betterprogramming.pub/create-a-galaga-clone-using-pygame-57d32567699e?source=rss-e42a3542bc38------2)
+- [4 Best Practices To Create Command-Line Interfaces in Python](https://betterprogramming.pub/4-best-practices-to-create-command-line-interfaces-in-python-5043fbb7c52b?source=rss-e42a3542bc38------2)
+- [The Best Open-source Media Player to Integrate With Your Angular Apps](https://betterprogramming.pub/the-best-open-source-media-player-to-integrate-with-your-angular-apps-39a80ff1aedb?source=rss-e42a3542bc38------2)
+- [3 Data Processing Pipelines You Can Build With Python Generators](https://betterprogramming.pub/3-data-processing-pipelines-you-can-build-with-python-generators-dc0d2019b177?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
