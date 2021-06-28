@@ -26,7 +26,7 @@
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/kalkie)
 <br>
 <br>
-## Blog posts
+📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [6 Things To Know When Dockerizing Microsoft .NET Apps in Production](https://levelup.gitconnected.com/6-things-to-know-when-dockerizing-microsoft-net-apps-in-production-45b8c27a41b0?source=rss-e42a3542bc38------2)
 - [Create a Galaga Clone Using Pygame](https://betterprogramming.pub/create-a-galaga-clone-using-pygame-57d32567699e?source=rss-e42a3542bc38------2)
