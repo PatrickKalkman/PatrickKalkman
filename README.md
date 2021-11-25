@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Passing the Certified Kubernetes Application Developer &lpar;CKAD&rpar; Exam](https://betterprogramming.pub/passing-the-certified-kubernetes-application-developer-ckad-exam-f1b4ea47884b?source=rss-e42a3542bc38------2)
 - [6 Things To Know When Dockerizing Microsoft .NET Apps in Production](https://levelup.gitconnected.com/6-things-to-know-when-dockerizing-microsoft-net-apps-in-production-45b8c27a41b0?source=rss-e42a3542bc38------2)
 - [Create a Galaga Clone Using Pygame](https://betterprogramming.pub/create-a-galaga-clone-using-pygame-57d32567699e?source=rss-e42a3542bc38------2)
 - [4 Best Practices To Create Command-Line Interfaces in Python](https://betterprogramming.pub/4-best-practices-to-create-command-line-interfaces-in-python-5043fbb7c52b?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [Why Some Software Architects Are Unhappy at Work](https://betterprogramming.pub/why-some-software-architects-are-unhappy-at-work-42a4188cbd30?source=rss-e42a3542bc38------2)
 - [How To Enhance Your Software Architecture Design](https://betterprogramming.pub/how-to-enhance-your-software-architecture-design-58668c3a5670?source=rss-e42a3542bc38------2)
 - [The Complete Guide to Creating Python Packages](https://betterprogramming.pub/the-complete-guide-to-creating-python-packages-3ecb150a1a43?source=rss-e42a3542bc38------2)
-- [How To Deploy Your TensorFlow Model in a Production Environment](https://betterprogramming.pub/how-to-deploy-your-tensorflow-model-in-a-production-environment-23a9572e94d3?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
