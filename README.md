@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How To Implement Two-Factor Authentication Using Node.js and Vue 3](https://betterprogramming.pub/how-to-implement-two-factor-authentication-using-node-js-and-vue-3-1029745e06fd?source=rss-e42a3542bc38------2)
 - [Innovation for Software Architects and Developers](https://blog.devgenius.io/innovation-for-software-architects-and-developers-3fa207ec2556?source=rss-e42a3542bc38------2)
 - [Best Practices for Angular 13](https://betterprogramming.pub/best-practices-for-angular-13-fa7fdd42ba80?source=rss-e42a3542bc38------2)
 - [Passing the Certified Kubernetes Application Developer &lpar;CKAD&rpar; Exam](https://betterprogramming.pub/passing-the-certified-kubernetes-application-developer-ckad-exam-f1b4ea47884b?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [The Best Open-source Media Player to Integrate With Your Angular Apps](https://betterprogramming.pub/the-best-open-source-media-player-to-integrate-with-your-angular-apps-39a80ff1aedb?source=rss-e42a3542bc38------2)
 - [3 Data Processing Pipelines You Can Build With Python Generators](https://betterprogramming.pub/3-data-processing-pipelines-you-can-build-with-python-generators-dc0d2019b177?source=rss-e42a3542bc38------2)
 - [5 Ways To Sharpen Your Saw as a Programmer](https://betterprogramming.pub/5-ways-to-sharpen-your-saw-as-a-programmer-b7de1c4bf7a8?source=rss-e42a3542bc38------2)
-- [Why Some Software Architects Are Unhappy at Work](https://betterprogramming.pub/why-some-software-architects-are-unhappy-at-work-42a4188cbd30?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
