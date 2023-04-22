@@ -9,7 +9,7 @@
 - 💬 Ask me about Software Architecture & Microsoft .Net Development
 - 📫 How to reach me: patrick at simpletechture.nl
 - 📸 I love to photograph, check my [instagram](https://www.instagram.com/patrick_kalkman.photography/)  
-- <img height="20" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/23997610">  Certified TensorFlow Developer
+- Certified TensorFlow Developer
 
 ![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrickkalkman&count_private=true&show_icons=true&theme=algolia)
 
