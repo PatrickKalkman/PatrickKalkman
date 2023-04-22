@@ -27,14 +27,14 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Why Refactoring Does Not Mean a Complete Overhaul?](https://blog.devgenius.io/why-refactoring-does-not-mean-a-complete-overhaul-b232f5d80eb8?source=rss-e42a3542bc38------2)
-- [How To Automatically Protect Azure App Services](https://blog.devgenius.io/how-to-automatically-protect-azure-app-services-1e925484663f?source=rss-e42a3542bc38------2)
-- [How To Implement Two-Factor Authentication Using Node.js and Vue 3](https://betterprogramming.pub/how-to-implement-two-factor-authentication-using-node-js-and-vue-3-1029745e06fd?source=rss-e42a3542bc38------2)
-- [Innovation for Software Architects and Developers](https://blog.devgenius.io/innovation-for-software-architects-and-developers-3fa207ec2556?source=rss-e42a3542bc38------2)
-- [Best Practices for Angular 13](https://betterprogramming.pub/best-practices-for-angular-13-fa7fdd42ba80?source=rss-e42a3542bc38------2)
-- [Passing the Certified Kubernetes Application Developer &lpar;CKAD&rpar; Exam](https://betterprogramming.pub/passing-the-certified-kubernetes-application-developer-ckad-exam-f1b4ea47884b?source=rss-e42a3542bc38------2)
-- [6 Things To Know When Dockerizing Microsoft .NET Apps in Production](https://levelup.gitconnected.com/6-things-to-know-when-dockerizing-microsoft-net-apps-in-production-45b8c27a41b0?source=rss-e42a3542bc38------2)
-- [Create a Galaga Clone Using Pygame](https://betterprogramming.pub/create-a-galaga-clone-using-pygame-57d32567699e?source=rss-e42a3542bc38------2)
-- [4 Best Practices To Create Command-Line Interfaces in Python](https://betterprogramming.pub/4-best-practices-to-create-command-line-interfaces-in-python-5043fbb7c52b?source=rss-e42a3542bc38------2)
-- [The Best Open-source Media Player to Integrate With Your Angular Apps](https://betterprogramming.pub/the-best-open-source-media-player-to-integrate-with-your-angular-apps-39a80ff1aedb?source=rss-e42a3542bc38------2)
+- [Python, YAML, and Kubernetes — The Art of Mastering Configuration](https://itnext.io/python-yaml-and-kubernetes-the-art-of-mastering-configuration-cd60029b3f62?source=rss-e42a3542bc38------2)
+- [Coaching Developers Using Rubber Ducking](https://medium.com/@pkalkman/coaching-developers-using-rubber-ducking-a2530d5061f8?source=rss-e42a3542bc38------2)
+- [Squeeze Your Data With Python](https://python.plainenglish.io/squeeze-your-data-with-python-3936a8a6949c?source=rss-e42a3542bc38------2)
+- [Guerilla Tactics for IT Architects &amp; Developers](https://levelup.gitconnected.com/guerilla-tactics-for-it-architects-developers-33bb318b64d?source=rss-e42a3542bc38------2)
+- [Dependency Injection in Python](https://itnext.io/dependency-injection-in-python-a1e56ab8bdd0?source=rss-e42a3542bc38------2)
+- [Python Persistence Perfected](https://betterprogramming.pub/python-persistence-perfected-67efc33f472d?source=rss-e42a3542bc38------2)
+- [Python Decorators Demystified](https://itnext.io/python-decorators-demystified-cef81d7e986d?source=rss-e42a3542bc38------2)
+- [Protecting Your Kubernetes Environment With KubeArmor](https://itnext.io/protecting-your-kubernetes-environment-with-kubearmor-76b02fc2209b?source=rss-e42a3542bc38------2)
+- [Elevating SCRUM Retrospectives](https://medium.com/@pkalkman/elevating-scrum-retrospectives-8993d6e8c987?source=rss-e42a3542bc38------2)
+- [Kubernetes Security Standoff](https://itnext.io/kubernetes-security-standoff-6116a312fedd?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
