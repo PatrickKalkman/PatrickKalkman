@@ -27,6 +27,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Turbocharge Your Python Code](https://betterprogramming.pub/turbocharge-your-python-code-b1d5462e40b1?source=rss-e42a3542bc38------2)
 - [Python, YAML, and Kubernetes — The Art of Mastering Configuration](https://itnext.io/python-yaml-and-kubernetes-the-art-of-mastering-configuration-cd60029b3f62?source=rss-e42a3542bc38------2)
 - [Coaching Developers Using Rubber Ducking](https://medium.com/@pkalkman/coaching-developers-using-rubber-ducking-a2530d5061f8?source=rss-e42a3542bc38------2)
 - [Squeeze Your Data With Python](https://python.plainenglish.io/squeeze-your-data-with-python-3936a8a6949c?source=rss-e42a3542bc38------2)
@@ -36,5 +37,4 @@
 - [Python Decorators Demystified](https://itnext.io/python-decorators-demystified-cef81d7e986d?source=rss-e42a3542bc38------2)
 - [Protecting Your Kubernetes Environment With KubeArmor](https://itnext.io/protecting-your-kubernetes-environment-with-kubearmor-76b02fc2209b?source=rss-e42a3542bc38------2)
 - [Elevating SCRUM Retrospectives](https://medium.com/@pkalkman/elevating-scrum-retrospectives-8993d6e8c987?source=rss-e42a3542bc38------2)
-- [Kubernetes Security Standoff](https://itnext.io/kubernetes-security-standoff-6116a312fedd?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
