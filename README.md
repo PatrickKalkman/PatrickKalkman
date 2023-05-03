@@ -27,6 +27,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Blast Off With Pygame — Crafting a Thrilling Galaga-Inspired Game](https://itnext.io/blast-off-with-pygame-crafting-a-thrilling-galaga-inspired-game-b67e7aface94?source=rss-e42a3542bc38------2)
 - [Mastering Asyncio — Unleashing the Power of Async/Await in Python](https://itnext.io/mastering-asyncio-unleashing-the-power-of-async-await-in-python-1ee626cff065?source=rss-e42a3542bc38------2)
 - [Python’s Hidden Gems](https://itnext.io/pythons-hidden-gems-afa2472ae421?source=rss-e42a3542bc38------2)
 - [Turbocharge Your Python Code](https://betterprogramming.pub/turbocharge-your-python-code-b1d5462e40b1?source=rss-e42a3542bc38------2)
@@ -36,5 +37,4 @@
 - [Guerilla Tactics for IT Architects &amp; Developers](https://levelup.gitconnected.com/guerilla-tactics-for-it-architects-developers-33bb318b64d?source=rss-e42a3542bc38------2)
 - [Dependency Injection in Python](https://itnext.io/dependency-injection-in-python-a1e56ab8bdd0?source=rss-e42a3542bc38------2)
 - [Python Persistence Perfected](https://betterprogramming.pub/python-persistence-perfected-67efc33f472d?source=rss-e42a3542bc38------2)
-- [Python Decorators Demystified](https://itnext.io/python-decorators-demystified-cef81d7e986d?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
