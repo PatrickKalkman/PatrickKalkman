@@ -27,6 +27,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of Python’s Context Managers](https://itnext.io/unlocking-the-power-of-pythons-context-managers-aeeb3890cf01?source=rss-e42a3542bc38------2)
 - [Streamfinity’s API Makeover — Embracing Python and FastAPI](https://itnext.io/streamfinitys-api-makeover-embracing-python-and-fastapi-93df4dc237aa?source=rss-e42a3542bc38------2)
 - [Essential Tools for Improving Code Quality in Python](https://itnext.io/essential-tools-for-improving-code-quality-in-python-d24ca3b963d4?source=rss-e42a3542bc38------2)
 - [Blast Off With Pygame — Crafting a Thrilling Galaga-Inspired Game](https://itnext.io/blast-off-with-pygame-crafting-a-thrilling-galaga-inspired-game-b67e7aface94?source=rss-e42a3542bc38------2)
@@ -36,5 +37,4 @@
 - [Python, YAML, and Kubernetes — The Art of Mastering Configuration](https://itnext.io/python-yaml-and-kubernetes-the-art-of-mastering-configuration-cd60029b3f62?source=rss-e42a3542bc38------2)
 - [Coaching Developers Using Rubber Ducking](https://medium.com/@pkalkman/coaching-developers-using-rubber-ducking-a2530d5061f8?source=rss-e42a3542bc38------2)
 - [Squeeze Your Data With Python](https://python.plainenglish.io/squeeze-your-data-with-python-3936a8a6949c?source=rss-e42a3542bc38------2)
-- [Guerilla Tactics for IT Architects &amp; Developers](https://levelup.gitconnected.com/guerilla-tactics-for-it-architects-developers-33bb318b64d?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
