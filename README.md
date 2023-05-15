@@ -27,6 +27,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [From Development to Deployment — A Python FastAPI Journey with Docker and Kubernetes](https://itnext.io/from-development-to-deployment-a-python-fastapi-journey-with-docker-and-kubernetes-74b14e40fa97?source=rss-e42a3542bc38------2)
 - [Unlocking the Power of Python’s Context Managers](https://itnext.io/unlocking-the-power-of-pythons-context-managers-aeeb3890cf01?source=rss-e42a3542bc38------2)
 - [Streamfinity’s API Makeover — Embracing Python and FastAPI](https://itnext.io/streamfinitys-api-makeover-embracing-python-and-fastapi-93df4dc237aa?source=rss-e42a3542bc38------2)
 - [Essential Tools for Improving Code Quality in Python](https://itnext.io/essential-tools-for-improving-code-quality-in-python-d24ca3b963d4?source=rss-e42a3542bc38------2)
@@ -36,5 +37,4 @@
 - [Turbocharge Your Python Code](https://betterprogramming.pub/turbocharge-your-python-code-b1d5462e40b1?source=rss-e42a3542bc38------2)
 - [Python, YAML, and Kubernetes — The Art of Mastering Configuration](https://itnext.io/python-yaml-and-kubernetes-the-art-of-mastering-configuration-cd60029b3f62?source=rss-e42a3542bc38------2)
 - [Coaching Developers Using Rubber Ducking](https://medium.com/@pkalkman/coaching-developers-using-rubber-ducking-a2530d5061f8?source=rss-e42a3542bc38------2)
-- [Squeeze Your Data With Python](https://python.plainenglish.io/squeeze-your-data-with-python-3936a8a6949c?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
