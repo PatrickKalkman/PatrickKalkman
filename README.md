@@ -27,6 +27,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Cracking the Code — A Guide to Python Debugging Tools](https://python.plainenglish.io/cracking-the-code-a-guide-to-python-debugging-tools-70ecc351a457?source=rss-e42a3542bc38------2)
 - [Harnessing the Elegance of Python’s Lambda Functions](https://itnext.io/harnessing-the-elegance-of-pythons-lambda-functions-e1ef9e4daa?source=rss-e42a3542bc38------2)
 - [From Development to Deployment — A Python FastAPI Journey with Docker and Kubernetes](https://itnext.io/from-development-to-deployment-a-python-fastapi-journey-with-docker-and-kubernetes-74b14e40fa97?source=rss-e42a3542bc38------2)
 - [Unlocking the Power of Python’s Context Managers](https://itnext.io/unlocking-the-power-of-pythons-context-managers-aeeb3890cf01?source=rss-e42a3542bc38------2)
@@ -36,5 +37,4 @@
 - [Mastering Asyncio — Unleashing the Power of Async/Await in Python](https://itnext.io/mastering-asyncio-unleashing-the-power-of-async-await-in-python-1ee626cff065?source=rss-e42a3542bc38------2)
 - [Python’s Hidden Gems](https://itnext.io/pythons-hidden-gems-afa2472ae421?source=rss-e42a3542bc38------2)
 - [Turbocharge Your Python Code](https://betterprogramming.pub/turbocharge-your-python-code-b1d5462e40b1?source=rss-e42a3542bc38------2)
-- [Python, YAML, and Kubernetes — The Art of Mastering Configuration](https://itnext.io/python-yaml-and-kubernetes-the-art-of-mastering-configuration-cd60029b3f62?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
