@@ -27,6 +27,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Grip and Slip — Exploring F1 Tire Management With Python and Pandas AI](https://itnext.io/grip-and-slip-exploring-f1-tire-management-with-python-and-pandas-ai-563d56d15273?source=rss-e42a3542bc38------2)
 - [How To Create an Event Driven Architecture &lpar;EDA&rpar; in Python](https://itnext.io/how-to-create-an-event-driven-architecture-eda-in-python-1c47666bc088?source=rss-e42a3542bc38------2)
 - [How To Uncover the Secrets of F1 Pit Stops — A Python-Powered Analysis](https://itnext.io/how-to-uncover-the-secrets-of-f1-pit-stops-a-python-powered-analysis-be45dd333713?source=rss-e42a3542bc38------2)
 - [Cracking the Code — A Guide to Python Debugging Tools](https://python.plainenglish.io/cracking-the-code-a-guide-to-python-debugging-tools-70ecc351a457?source=rss-e42a3542bc38------2)
@@ -36,5 +37,4 @@
 - [Streamfinity’s API Makeover — Embracing Python and FastAPI](https://itnext.io/streamfinitys-api-makeover-embracing-python-and-fastapi-93df4dc237aa?source=rss-e42a3542bc38------2)
 - [Essential Tools for Improving Code Quality in Python](https://itnext.io/essential-tools-for-improving-code-quality-in-python-d24ca3b963d4?source=rss-e42a3542bc38------2)
 - [Blast Off With Pygame — Crafting a Thrilling Galaga-Inspired Game](https://itnext.io/blast-off-with-pygame-crafting-a-thrilling-galaga-inspired-game-b67e7aface94?source=rss-e42a3542bc38------2)
-- [Mastering Asyncio — Unleashing the Power of Async/Await in Python](https://itnext.io/mastering-asyncio-unleashing-the-power-of-async-await-in-python-1ee626cff065?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
