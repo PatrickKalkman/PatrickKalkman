@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How to Tackle Scalability With CQRS using Python and FastAPI](https://itnext.io/how-to-tackle-scalability-with-cqrs-using-python-and-fastapi-b44506357c8b?source=rss-e42a3542bc38------2)
 - [Unraveling the Mysteries of Python’s Impressive MetaClasses](https://itnext.io/unraveling-the-mysteries-of-pythons-impressive-metaclasses-22fce0c23e96?source=rss-e42a3542bc38------2)
 - [Harnessing Local Language Models — A Guide to Transitioning From OpenAI to On-Premise Power](https://itnext.io/harnessing-local-language-models-a-guide-to-transitioning-from-openai-to-on-premise-power-81cfc159bf1e?source=rss-e42a3542bc38------2)
 - [Demystifying Python’s Magic Methods — A Deep Dive](https://python.plainenglish.io/demystifying-pythons-magic-methods-a-deep-dive-3891b4f648c6?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [How To Uncover the Secrets of F1 Pit Stops — A Python-Powered Analysis](https://itnext.io/how-to-uncover-the-secrets-of-f1-pit-stops-a-python-powered-analysis-be45dd333713?source=rss-e42a3542bc38------2)
 - [Cracking the Code — A Guide to Python Debugging Tools](https://python.plainenglish.io/cracking-the-code-a-guide-to-python-debugging-tools-70ecc351a457?source=rss-e42a3542bc38------2)
 - [Harnessing the Elegance of Python’s Lambda Functions](https://itnext.io/harnessing-the-elegance-of-pythons-lambda-functions-e1ef9e4daa?source=rss-e42a3542bc38------2)
-- [From Development to Deployment — A Python FastAPI Journey with Docker and Kubernetes](https://itnext.io/from-development-to-deployment-a-python-fastapi-journey-with-docker-and-kubernetes-74b14e40fa97?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
