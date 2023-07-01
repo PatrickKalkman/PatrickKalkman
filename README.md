@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Python’s Exception Landscape — A Comprehensive Guide From Basics to Best Practices](https://itnext.io/navigating-pythons-exception-landscape-a-comprehensive-guide-from-basics-to-best-practices-cf3318302592?source=rss-e42a3542bc38------2)
 - [How to Guard Your Secrets — Best Practices for Handling Sensitive Data in Python](https://itnext.io/how-to-guard-your-secrets-best-practices-for-handling-sensitive-data-in-python-498ff39b213f?source=rss-e42a3542bc38------2)
 - [How to Simulate the Micromouse Competition With Python](https://itnext.io/how-to-simulate-the-micromouse-competition-with-python-ce29254edd2e?source=rss-e42a3542bc38------2)
 - [Cracking Sudoku — How to Explore Backtracking Algorithms With Python](https://itnext.io/cracking-sudoku-how-to-explore-backtracking-algorithms-with-python-63a67067045d?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [Harnessing Local Language Models — A Guide to Transitioning From OpenAI to On-Premise Power](https://itnext.io/harnessing-local-language-models-a-guide-to-transitioning-from-openai-to-on-premise-power-81cfc159bf1e?source=rss-e42a3542bc38------2)
 - [Demystifying Python’s Magic Methods — A Deep Dive](https://python.plainenglish.io/demystifying-pythons-magic-methods-a-deep-dive-3891b4f648c6?source=rss-e42a3542bc38------2)
 - [How to Build a Document-Based Q&amp;A System Using OpenAI and Python](https://itnext.io/how-to-build-a-document-based-q-a-system-using-openai-and-python-17d1c3cc2081?source=rss-e42a3542bc38------2)
-- [Grip and Slip — Exploring F1 Tire Management With Python and Pandas AI](https://itnext.io/grip-and-slip-exploring-f1-tire-management-with-python-and-pandas-ai-563d56d15273?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
