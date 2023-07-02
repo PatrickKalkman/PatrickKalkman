@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Global Variables — Enhancing Python Functions With Global Scope](https://itnext.io/mastering-global-variables-enhancing-python-functions-with-global-scope-c694f4489db?source=rss-e42a3542bc38------2)
 - [Navigating Python’s Exception Landscape — A Comprehensive Guide From Basics to Best Practices](https://itnext.io/navigating-pythons-exception-landscape-a-comprehensive-guide-from-basics-to-best-practices-cf3318302592?source=rss-e42a3542bc38------2)
 - [How to Guard Your Secrets — Best Practices for Handling Sensitive Data in Python](https://itnext.io/how-to-guard-your-secrets-best-practices-for-handling-sensitive-data-in-python-498ff39b213f?source=rss-e42a3542bc38------2)
 - [How to Simulate the Micromouse Competition With Python](https://itnext.io/how-to-simulate-the-micromouse-competition-with-python-ce29254edd2e?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [Unraveling the Mysteries of Python’s Impressive MetaClasses](https://itnext.io/unraveling-the-mysteries-of-pythons-impressive-metaclasses-22fce0c23e96?source=rss-e42a3542bc38------2)
 - [Harnessing Local Language Models — A Guide to Transitioning From OpenAI to On-Premise Power](https://itnext.io/harnessing-local-language-models-a-guide-to-transitioning-from-openai-to-on-premise-power-81cfc159bf1e?source=rss-e42a3542bc38------2)
 - [Demystifying Python’s Magic Methods — A Deep Dive](https://python.plainenglish.io/demystifying-pythons-magic-methods-a-deep-dive-3891b4f648c6?source=rss-e42a3542bc38------2)
-- [How to Build a Document-Based Q&amp;A System Using OpenAI and Python](https://itnext.io/how-to-build-a-document-based-q-a-system-using-openai-and-python-17d1c3cc2081?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
