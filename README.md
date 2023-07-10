@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How to Craft Crosswords with Code — A Python, Pygame, and OpenAI API approach](https://itnext.io/how-to-craft-crosswords-with-code-a-python-pygame-and-openai-api-approach-14406396eacc?source=rss-e42a3542bc38------2)
 - [Mastering Global Variables — Enhancing Python Functions With Global Scope](https://itnext.io/mastering-global-variables-enhancing-python-functions-with-global-scope-c694f4489db?source=rss-e42a3542bc38------2)
 - [Navigating Python’s Exception Landscape — A Comprehensive Guide From Basics to Best Practices](https://itnext.io/navigating-pythons-exception-landscape-a-comprehensive-guide-from-basics-to-best-practices-cf3318302592?source=rss-e42a3542bc38------2)
 - [How to Guard Your Secrets — Best Practices for Handling Sensitive Data in Python](https://itnext.io/how-to-guard-your-secrets-best-practices-for-handling-sensitive-data-in-python-498ff39b213f?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [How to Tackle Scalability With CQRS using Python and FastAPI](https://itnext.io/how-to-tackle-scalability-with-cqrs-using-python-and-fastapi-b44506357c8b?source=rss-e42a3542bc38------2)
 - [Unraveling the Mysteries of Python’s Impressive MetaClasses](https://itnext.io/unraveling-the-mysteries-of-pythons-impressive-metaclasses-22fce0c23e96?source=rss-e42a3542bc38------2)
 - [Harnessing Local Language Models — A Guide to Transitioning From OpenAI to On-Premise Power](https://itnext.io/harnessing-local-language-models-a-guide-to-transitioning-from-openai-to-on-premise-power-81cfc159bf1e?source=rss-e42a3542bc38------2)
-- [Demystifying Python’s Magic Methods — A Deep Dive](https://python.plainenglish.io/demystifying-pythons-magic-methods-a-deep-dive-3891b4f648c6?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
