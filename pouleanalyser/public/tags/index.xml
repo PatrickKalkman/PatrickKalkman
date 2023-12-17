@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Poule Analyser</title>
+    <link>https://gppoule.simpletechture.nl/tags/</link>
+    <description>Recent content in Tags on Poule Analyser</description>
+    <image>
+      <title>Poule Analyser</title>
+      <url>https://gppoule.simpletechture.nl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://gppoule.simpletechture.nl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Thu, 17 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://gppoule.simpletechture.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gppoule</title>
+      <link>https://gppoule.simpletechture.nl/tags/gppoule/</link>
+      <pubDate>Thu, 17 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://gppoule.simpletechture.nl/tags/gppoule/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

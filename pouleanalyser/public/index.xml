@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poule Analyser</title>
+    <link>https://gppoule.simpletechture.nl/</link>
+    <description>Recent content on Poule Analyser</description>
+    <image>
+      <title>Poule Analyser</title>
+      <url>https://gppoule.simpletechture.nl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://gppoule.simpletechture.nl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Thu, 17 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://gppoule.simpletechture.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyse GPPoule 2023</title>
+      <link>https://gppoule.simpletechture.nl/posts/analyse2023/analyse2023/</link>
+      <pubDate>Thu, 17 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://gppoule.simpletechture.nl/posts/analyse2023/analyse2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eindresultaat GPPoule 2023</title>
+      <link>https://gppoule.simpletechture.nl/posts/result2023/result2023/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://gppoule.simpletechture.nl/posts/result2023/result2023/</guid>
+      <description>We zijn verheugd om de eindstand van de GPPoule 2023 bekend te maken! Na een spannend seizoen vol onverwachte wendingen en adembenemende races, presenteren we hier de resultaten van alle deelnemers. Gefeliciteerd aan iedereen die heeft deelgenomen en in het bijzonder aan onze topfinishers!
+Plaats Naam Punten 1 Dennisbommele 341 2 EenGamendeVisYT1269 334 3 FrankKalkman4423 331 4 Jessiebommele5275 329 5 Christina 323 6 pkalkman 313 7 JodieVan Oudenaarden7345 290 8 Bqnaan 285 9 DanielaPolak3440 254 10 Robvan der Heeden4741 244 Dit zijn de officiële eindstanden van onze Formule 1 pool voor het seizoen 2023.</description>
+    </item>
+  </channel>
+</rss>
