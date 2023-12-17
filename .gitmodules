@@ -7,3 +7,6 @@
 [submodule "quickstart/themes/PaperMod"]
 	path = quickstart/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "pouleanalyser/themes/PaperMod"]
+	path = pouleanalyser/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
