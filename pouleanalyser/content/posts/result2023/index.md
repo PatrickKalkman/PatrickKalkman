@@ -1,6 +1,6 @@
 ---
 title: "Eindresultaat GPPoule 2023"
-date: 2020-09-15T11:30:03+00:00
+date: 2023-09-15T11:30:03+00:00
 tags: ["gppoule"]
 author: "Patrick & Frank"
 showToc: false
