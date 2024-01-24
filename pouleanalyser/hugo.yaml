@@ -18,7 +18,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: F1 Poule Analyser
   description: ""
   keywords: [Blog, Portfolio, PaperMod, Formule 1, Formula 1]
   author: ["Patrick", "Frank"] # multiple authors
@@ -122,6 +122,10 @@ menu:
     - identifier: tags
       name: tags
       url: /tags/
+      weight: 20
+    - identifier: stand
+      name: stand
+      url: /standings/current
       weight: 20
     - identifier: gppoule
       name: gppoule

@@ -22,11 +22,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "cover.jpg" # image path/url
-    alt: "Image showing the results" # alt text
-    caption: "2023 Result" # display caption under cover
-    relative: true # when using page bundles set this to true
-    hidden: true # only hide on current single page
+  image: ../cover.jpg # image path/url
+  alt: "Image showing the results" # alt text
+  caption: "2023 Result" # display caption under cover
+  relative: true # when using page bundles set this to true
+  hidden: false # only hide on current single page
 ---
 
 We zijn verheugd om de eindstand van de GPPoule 2023 bekend te maken! Na een spannend seizoen vol onverwachte wendingen en adembenemende races, presenteren we hier de resultaten van alle deelnemers. Gefeliciteerd aan iedereen die heeft deelgenomen en in het bijzonder aan onze topfinishers!
