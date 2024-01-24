@@ -28,9 +28,6 @@ cover:
     relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-
-# F1 Kalender 2024
-
 De Formule 1 kalender voor 2024 is officieel aangekondigd en het belooft wederom een onvergetelijk seizoen te worden in de koningsklasse van de autosport. Met een recordaantal van 24 races verspreid over de hele wereld, staat de F1-fan een jaar vol spanning en sensatie te wachten. Van de iconische straten van Monaco tot de snelle bochten van Suzuka, elke race biedt een unieke uitdaging en de kans om getuige te zijn van de uitzonderlijke vaardigheden van de beste coureurs ter wereld.
 
 De terugkeer van de GP van China en de spannende races in Bahrein en Saoedi-Arabië om het seizoen te beginnen, zijn slechts enkele hoogtepunten in een kalender boordevol actie. De aanhoudende rivaliteit tussen teams en coureurs, gecombineerd met de constante ontwikkeling van de auto's, zorgt ervoor dat elke race een onvoorspelbaar en adembenemend schouwspel wordt.
@@ -65,12 +62,6 @@ Bereid je voor op een jaar vol hoogtepunten, onverwachte wendingen en pure racep
 | 22  | GP Las Vegas      | Las Vegas Street Circuit          | 23 nov   |
 | 23  | GP Lusail         | Losail International Circuit      | 1 dec    |
 | 24  | GP Abu Dhabi      | Yas Marina Circuit                | 8 dec    |
-
-## Belangrijke Informatie
-
-- In het bovenstaande kalenderoverzicht vind je alle informatie over de F1 tijden van de vrije trainingen, sprint races, kwalificaties en de Grand Prix op zondag.
-- Klik op de race waarvan je alle F1 tijden wil zien en mis niets van de Formule 1. 
-- Op deze pagina’s zijn ook meteen de uitslagen te bekijken van de vrije trainingen, kwalificaties en de (sprint)race.
 
 ## Opmerkingen over de Kalender
 
