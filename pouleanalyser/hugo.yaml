@@ -96,12 +96,7 @@ params:
   cover:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    hiddenInSingle: false # hide on single page
 
   # for search
   # https://fusejs.io/api/options.html
@@ -125,7 +120,7 @@ menu:
       weight: 20
     - identifier: stand
       name: stand
-      url: /standings/current
+      url: /standings/
       weight: 20
     - identifier: gppoule
       name: gppoule

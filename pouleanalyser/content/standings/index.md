@@ -1,8 +1,32 @@
-+++
-title = 'Huidige stand'
-date = 2024-01-24T19:49:14+01:00
-draft = false
-+++
+---
+title: "Huidige stand Formule 1 Wereldkampioenschap 2024"
+date: 2020-09-15T11:30:03+00:00
+tags: ["gppoule"]
+author: "Patrick & Frank"
+showToc: false
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: ""
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: true
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true 
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+  image: ./standings/cover.png # image path/url
+  alt: "standings" # alt text
+  relative: true # when using page bundles set this to true
+  hidden: false # only hide on current single page
+---
 Welkom op de pagina met de actuele tussenstand van het Formule 1 Wereldkampioenschap 2024. Hier vindt u een gedetailleerd overzicht van de prestaties van alle coureurs en teams in dit opwindende racejaar. Van de intense strijd om de koppositie tot de indrukwekkende inhaalmanoeuvres achterin het veld, elke race brengt veranderingen in de ranglijst en biedt nieuwe kansen voor de coureurs en hun teams.
 
 Deze tabel wordt regelmatig bijgewerkt om de laatste resultaten en ontwikkelingen in het kampioenschap te weerspiegelen. Zo blijft u altijd op de hoogte van wie de leiders zijn in de race om de wereldtitel, wie de meeste overwinningen behaalt, en welke teams en coureurs de grootste uitdagers zijn in de strijd om de podiumplaatsen.

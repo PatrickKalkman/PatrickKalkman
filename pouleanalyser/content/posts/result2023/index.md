@@ -17,12 +17,12 @@ hideSummary: false
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
-ShowPostNavLinks: true
+ShowPostNavLinks: true 
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-  image: ../cover.jpg # image path/url
+  image: ./posts/result2023/cover.jpg # image path/url
   alt: "Image showing the results" # alt text
   caption: "2023 Result" # display caption under cover
   relative: true # when using page bundles set this to true

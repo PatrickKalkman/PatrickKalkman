@@ -22,11 +22,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "cover.jpg" # image path/url
+    image: ./posts/f1kalender2024/cover.png  # image path/url
     alt: "Formule 1 Kalender 2024" # alt text
-    caption: "Formule 1 Kalender 2024" # display caption under cover
     relative: true # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 De Formule 1 kalender voor 2024 is officieel aangekondigd en het belooft wederom een onvergetelijk seizoen te worden in de koningsklasse van de autosport. Met een recordaantal van 24 races verspreid over de hele wereld, staat de F1-fan een jaar vol spanning en sensatie te wachten. Van de iconische straten van Monaco tot de snelle bochten van Suzuka, elke race biedt een unieke uitdaging en de kans om getuige te zijn van de uitzonderlijke vaardigheden van de beste coureurs ter wereld.
 
