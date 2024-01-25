@@ -30,57 +30,41 @@ cover:
 
 # Voorspellen van Formule 1 Raceuitslagen
 
-## Inleiding
+In deze reeks zullen we verschillende strategieën bespreken voor het voorspellen van race-uitslagen. Het accuraat voorspellen van deze uitslagen is een complexe uitdaging die zowel diepgaande kennis van de sport als analytische vaardigheden vereist. Echter, als het je lukt om accurate voorspellingen te doen, kun je bovenaan de ranglijst van je poule eindigen en misschien zelfs het seizoen winnen. Dat is natuurlijk wat we allemaal willen: de eeuwige roem van de titel 'meestervoorspeller' behalen."
 
-In deze gids bespreken we verschillende strategieën die gebruikt kunnen worden om de uitslag van Formule 1-races te voorspellen. Het voorspellen van raceuitslagen is een complexe uitdaging die zowel kennis van de sport als analytische vaardigheden vereist.
+### Gebruik van de kwalificatieuitslag
+Deze strategie is in feite zeer eenvoudig. Je baseert je voorspelling op de uitslag van de kwalificatie en dat is het; geen wijzigingen, niets meer aan doen. Echt heel simpel, nietwaar?
 
-## Strategieën voor het Voorspellen van Raceuitslagen
+Het is leuk om eens te onderzoeken welke positie je zou hebben bereikt als je deze strategie in 2023 had gebruikt. Hieronder staan de punten per race uit 2023. Het totale aantal punten dat je zou hebben verzameld is 244, en dat is nog exclusief de extra punten die je aan het einde van het seizoen kunt verdienen, tot maximaal 45 punten. Met dit totaal zou je ongetwijfeld in de top 10 zijn geëindigd, waarschijnlijk op plaats 7. Niet slecht voor een strategie die zo eenvoudig is!
 
-### 1. Gebruik van Kwalificatieuitslagen
+Misschien iets om over na te denken het komende seizoen?
 
-**Beschrijving:**  
-Een eenvoudige maar soms effectieve methode is het gebruiken van de uitslag van de kwalificatie. De startpositie van een coureur kan een sterke indicator zijn voor hun prestaties in de race.
-
-**Hoe het werkt:**  
-- Analyseer de uitslag van de kwalificatie.
-- Overweeg de historie van hoe goed coureurs hun posities behouden van start tot finish.
-- Houd rekening met de kenmerken van het circuit, zoals inhaalmogelijkheden.
-
-### 2. Analyse van Historische Data
-
-**Beschrijving:**  
-Deze methode omvat het analyseren van eerdere races op hetzelfde circuit of onder vergelijkbare omstandigheden.
-
-**Hoe het werkt:**  
-- Verzamel data van eerdere races.
-- Identificeer patronen of trends, zoals welke teams goed presteren op bepaalde circuits.
-- Houd rekening met veranderingen in teamsamenstelling of reglementen.
-
-### 3. Weersvoorspellingen
-
-**Beschrijving:**  
-Het weer kan een grote impact hebben op de race. Teams die snel reageren op veranderende weersomstandigheden kunnen een voordeel hebben.
-
-**Hoe het werkt:**  
-- Monitor de weersvoorspelling voor de racedag.
-- Analyseer hoe verschillende teams en coureurs presteren onder verschillende weersomstandigheden.
-- Kijk naar strategieën in bandenkeuze en pitstops.
-
-### 4. Teamstrategieën en Pitstop Planning
-
-**Beschrijving:**  
-De strategieën van teams rondom pitstops kunnen races maken of breken.
-
-**Hoe het werkt:**  
-- Bestudeer de pitstopstrategieën van de teams in eerdere races.
-- Overweeg hoe de bandenkeuze en de timing van pitstops de race kunnen beïnvloeden.
-- Houd rekening met de betrouwbaarheid en snelheid van pitstopcrews.
-
-## Conclusie
-
-Het voorspellen van de uitslag van een Formule 1-race vereist een combinatie van statistische analyse, inzicht in de sport, en soms een beetje geluk. Door verschillende strategieën te gebruiken, kan men een meer geïnformeerde voorspelling doen over de mogelijke uitkomsten van een race.
+| Race Name                | Score |
+|--------------------------|-------|
+| Bahrain Grand Prix       | 10    |
+| Saudi Arabian Grand Prix | 14    |
+| Australian Grand Prix    | 8     |
+| Azerbaijan Grand Prix    | 11    |
+| Miami Grand Prix         | 13    |
+| Monaco Grand Prix        | 17    |
+| Spanish Grand Prix       | 14    |
+| Canadian Grand Prix      | 8     |
+| Austrian Grand Prix      | 13    |
+| British Grand Prix       | 12    |
+| Hungarian Grand Prix     | 8     |
+| Belgian Grand Prix       | 15    |
+| Dutch Grand Prix         | 9     |
+| Italian Grand Prix       | 8     |
+| Singapore Grand Prix     | 5     |
+| Japanese Grand Prix      | 18    |
+| Qatar Grand Prix         | 11    |
+| United States Grand Prix | 16    |
+| Mexico City Grand Prix   | 6     |
+| São Paulo Grand Prix     | 5     |
+| Las Vegas Grand Prix     | 3     |
+| Abu Dhabi Grand Prix     | 20    |
 
 ---
 
-*Let op: Dit is een basisgids en de effectiviteit van deze strategieën kan variëren afhankelijk van een reeks van factoren, waaronder onvoorziene gebeurtenissen tijdens de race.*
+**Let op: Dit is strategie en resultaten uit het verleden bieden geen garantie voor de toekomst.**
 
