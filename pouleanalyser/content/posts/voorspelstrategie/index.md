@@ -66,5 +66,5 @@ Misschien iets om over na te denken het komende seizoen?
 
 ---
 
-**Let op: Dit is strategie en resultaten uit het verleden bieden geen garantie voor de toekomst.**
+**Disclaimer: Hoewel deze strategie zijn vruchten heeft afgeworpen in het verleden, geldt de aloude wijsheid dat resultaten uit het verleden geen garanties bieden voor de toekomst. Probeer het dus op eigen risico en vergeet niet te genieten van de race!**
 
