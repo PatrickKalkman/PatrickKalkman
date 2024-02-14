@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Kubernetes With Kubectl](https://itnext.io/mastering-kubernetes-with-kubectl-0f448c337c66?source=rss-e42a3542bc38------2)
 - [Fortifying Kubernetes — Mastering Security With CIS Benchmarks](https://itnext.io/fortifying-kubernetes-mastering-security-with-cis-benchmarks-904064d7a3d9?source=rss-e42a3542bc38------2)
 - [AI in the Fast Lane: Predicting F1 With PyTorch](https://itnext.io/ai-in-the-fast-lane-predicting-f1-with-pytorch-6b844df7e79e?source=rss-e42a3542bc38------2)
 - [Decoding Network Policies in Kubernetes](https://itnext.io/decoding-network-policies-in-kubernetes-6fa480eb04eb?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [How to Guard Your Secrets — Best Practices for Handling Sensitive Data in Python](https://itnext.io/how-to-guard-your-secrets-best-practices-for-handling-sensitive-data-in-python-498ff39b213f?source=rss-e42a3542bc38------2)
 - [How to Simulate the Micromouse Competition With Python](https://itnext.io/how-to-simulate-the-micromouse-competition-with-python-ce29254edd2e?source=rss-e42a3542bc38------2)
 - [Cracking Sudoku — How to Explore Backtracking Algorithms With Python](https://itnext.io/cracking-sudoku-how-to-explore-backtracking-algorithms-with-python-63a67067045d?source=rss-e42a3542bc38------2)
-- [Exploring Fractals With Python — Understanding the Beauty of Chaos](https://itnext.io/exploring-fractals-with-python-understanding-the-beauty-of-chaos-81176fcf8855?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
