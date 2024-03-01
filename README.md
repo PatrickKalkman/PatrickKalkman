@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Securing Kubernetes With OPA Gatekeeper](https://itnext.io/securing-kubernetes-with-opa-gatekeeper-4f2e05c441a4?source=rss-e42a3542bc38------2)
 - [Mastering Kubernetes Security — My Journey With Admission Controllers](https://itnext.io/mastering-kubernetes-security-my-journey-with-admission-controllers-ca6f163e8c2a?source=rss-e42a3542bc38------2)
 - [Mastering Kubernetes With Kubectl](https://itnext.io/mastering-kubernetes-with-kubectl-0f448c337c66?source=rss-e42a3542bc38------2)
 - [Fortifying Kubernetes — Mastering Security With CIS Benchmarks](https://itnext.io/fortifying-kubernetes-mastering-security-with-cis-benchmarks-904064d7a3d9?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [Mastering Global Variables — Enhancing Python Functions With Global Scope](https://itnext.io/mastering-global-variables-enhancing-python-functions-with-global-scope-c694f4489db?source=rss-e42a3542bc38------2)
 - [Navigating Python’s Exception Landscape — A Comprehensive Guide From Basics to Best Practices](https://itnext.io/navigating-pythons-exception-landscape-a-comprehensive-guide-from-basics-to-best-practices-cf3318302592?source=rss-e42a3542bc38------2)
 - [How to Guard Your Secrets — Best Practices for Handling Sensitive Data in Python](https://itnext.io/how-to-guard-your-secrets-best-practices-for-handling-sensitive-data-in-python-498ff39b213f?source=rss-e42a3542bc38------2)
-- [How to Simulate the Micromouse Competition With Python](https://itnext.io/how-to-simulate-the-micromouse-competition-with-python-ce29254edd2e?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
