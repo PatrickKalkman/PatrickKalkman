@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Unleash Your AI Agent: Automate Time Tracking With LangGraph and Meta Llama 3](https://generativeai.pub/unleash-your-ai-agent-automate-time-tracking-with-langgraph-and-meta-llama-3-f697b363b0ec?source=rss-e42a3542bc38------2)
 - [How To Conquer the 2024 Certified Kubernetes Security Specialist &lpar;CKS&rpar; Exam](https://itnext.io/how-to-conquer-the-2024-certified-kubernetes-security-specialist-cks-exam-13d3a4c02575?source=rss-e42a3542bc38------2)
 - [Mastering Kubernetes Audit Logs](https://itnext.io/mastering-kubernetes-audit-logs-9b02e9603a3b?source=rss-e42a3542bc38------2)
 - [Securing Kubernetes With OPA Gatekeeper](https://itnext.io/securing-kubernetes-with-opa-gatekeeper-4f2e05c441a4?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [AI in the Fast Lane: Predicting F1 With PyTorch](https://itnext.io/ai-in-the-fast-lane-predicting-f1-with-pytorch-6b844df7e79e?source=rss-e42a3542bc38------2)
 - [Decoding Network Policies in Kubernetes](https://itnext.io/decoding-network-policies-in-kubernetes-6fa480eb04eb?source=rss-e42a3542bc38------2)
 - [How to Craft Crosswords with Code — A Python, Pygame, and OpenAI API approach](https://itnext.io/how-to-craft-crosswords-with-code-a-python-pygame-and-openai-api-approach-14406396eacc?source=rss-e42a3542bc38------2)
-- [Mastering Global Variables — Enhancing Python Functions With Global Scope](https://itnext.io/mastering-global-variables-enhancing-python-functions-with-global-scope-c694f4489db?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
