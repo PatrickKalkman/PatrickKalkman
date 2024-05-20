@@ -10,7 +10,7 @@
 - 📫 How to reach me: patrick at simpletechture.nl
 - 📸 I love to photograph, check my [instagram](https://www.instagram.com/patrick_kalkman.photography/)  
 - Certified TensorFlow Developer
-- Certified Kubernetes Administrator & Developer
+- Certified Kubernetes Administrator & Developer & Security Specialist
 
 ![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrickkalkman&count_private=true&show_icons=true&theme=algolia)
 
