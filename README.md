@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How Did AlphaGo Beat Lee Sedol?](https://ai.gopubby.com/how-did-alphago-beat-lee-sedol-1a160d76612b?source=rss-e42a3542bc38------2)
 - [AI on Your Terms: Privacy-Focused LLM Deployment with Meta’s Llama 3 and Node.js](https://generativeai.pub/ai-on-your-terms-privacy-focused-llm-deployment-with-metas-llama-3-and-node-js-615af33087c7?source=rss-e42a3542bc38------2)
 - [AI Agent for Smart Home Climate Control: Harnessing Botanical Strategies for Energy Efficiency](https://generativeai.pub/ai-agent-for-smart-home-climate-control-harnessing-botanical-strategies-for-energy-efficiency-47d4e55d5e7f?source=rss-e42a3542bc38------2)
 - [Developers on Autopilot: How AI Assistants Are Transforming Software Development](https://generativeai.pub/developers-on-autopilot-how-ai-assistants-are-transforming-software-development-df1479e4999c?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [Securing Kubernetes With OPA Gatekeeper](https://itnext.io/securing-kubernetes-with-opa-gatekeeper-4f2e05c441a4?source=rss-e42a3542bc38------2)
 - [Mastering Kubernetes Security — My Journey With Admission Controllers](https://itnext.io/mastering-kubernetes-security-my-journey-with-admission-controllers-ca6f163e8c2a?source=rss-e42a3542bc38------2)
 - [Mastering Kubernetes With Kubectl](https://itnext.io/mastering-kubernetes-with-kubectl-0f448c337c66?source=rss-e42a3542bc38------2)
-- [Fortifying Kubernetes — Mastering Security With CIS Benchmarks](https://itnext.io/fortifying-kubernetes-mastering-security-with-cis-benchmarks-904064d7a3d9?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
