@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Building Your Own DI Framework in Python — From Principles to Practice](https://itnext.io/building-your-own-di-framework-in-python-from-principles-to-practice-a82c63bbdad7?source=rss-e42a3542bc38------2)
 - [How Did AlphaGo Beat Lee Sedol?](https://ai.gopubby.com/how-did-alphago-beat-lee-sedol-1a160d76612b?source=rss-e42a3542bc38------2)
 - [AI on Your Terms: Privacy-Focused LLM Deployment with Meta’s Llama 3 and Node.js](https://generativeai.pub/ai-on-your-terms-privacy-focused-llm-deployment-with-metas-llama-3-and-node-js-615af33087c7?source=rss-e42a3542bc38------2)
 - [AI Agent for Smart Home Climate Control: Harnessing Botanical Strategies for Energy Efficiency](https://generativeai.pub/ai-agent-for-smart-home-climate-control-harnessing-botanical-strategies-for-energy-efficiency-47d4e55d5e7f?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [Mastering Kubernetes Audit Logs](https://itnext.io/mastering-kubernetes-audit-logs-9b02e9603a3b?source=rss-e42a3542bc38------2)
 - [Securing Kubernetes With OPA Gatekeeper](https://itnext.io/securing-kubernetes-with-opa-gatekeeper-4f2e05c441a4?source=rss-e42a3542bc38------2)
 - [Mastering Kubernetes Security — My Journey With Admission Controllers](https://itnext.io/mastering-kubernetes-security-my-journey-with-admission-controllers-ca6f163e8c2a?source=rss-e42a3542bc38------2)
-- [Mastering Kubernetes With Kubectl](https://itnext.io/mastering-kubernetes-with-kubectl-0f448c337c66?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
