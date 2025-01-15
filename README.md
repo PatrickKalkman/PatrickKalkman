@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [GitSage: An AI Agent for Automated Release Notes](https://ai.gopubby.com/gitsage-an-ai-agent-for-automated-release-notes-0b6a5efb5c79?source=rss-e42a3542bc38------2)
 - [Building Your Own DI Framework in Python — From Principles to Practice](https://itnext.io/building-your-own-di-framework-in-python-from-principles-to-practice-a82c63bbdad7?source=rss-e42a3542bc38------2)
 - [How Did AlphaGo Beat Lee Sedol?](https://ai.gopubby.com/how-did-alphago-beat-lee-sedol-1a160d76612b?source=rss-e42a3542bc38------2)
 - [AI on Your Terms: Privacy-Focused LLM Deployment with Meta’s Llama 3 and Node.js](https://generativeai.pub/ai-on-your-terms-privacy-focused-llm-deployment-with-metas-llama-3-and-node-js-615af33087c7?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [How To Conquer the 2024 Certified Kubernetes Security Specialist &lpar;CKS&rpar; Exam](https://itnext.io/how-to-conquer-the-2024-certified-kubernetes-security-specialist-cks-exam-13d3a4c02575?source=rss-e42a3542bc38------2)
 - [Mastering Kubernetes Audit Logs](https://itnext.io/mastering-kubernetes-audit-logs-9b02e9603a3b?source=rss-e42a3542bc38------2)
 - [Securing Kubernetes With OPA Gatekeeper](https://itnext.io/securing-kubernetes-with-opa-gatekeeper-4f2e05c441a4?source=rss-e42a3542bc38------2)
-- [Mastering Kubernetes Security — My Journey With Admission Controllers](https://itnext.io/mastering-kubernetes-security-my-journey-with-admission-controllers-ca6f163e8c2a?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
