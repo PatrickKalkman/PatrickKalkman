@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Your Next Read: AI Agent-Powered Book Recommendations From Your Bookshelf](https://ai.gopubby.com/unlock-your-next-read-ai-agent-powered-book-recommendations-from-your-bookshelf-8ba059435fba?source=rss-e42a3542bc38------2)
 - [GitSage: An AI Agent for Automated Release Notes](https://ai.gopubby.com/gitsage-an-ai-agent-for-automated-release-notes-0b6a5efb5c79?source=rss-e42a3542bc38------2)
 - [Building Your Own DI Framework in Python — From Principles to Practice](https://itnext.io/building-your-own-di-framework-in-python-from-principles-to-practice-a82c63bbdad7?source=rss-e42a3542bc38------2)
 - [How Did AlphaGo Beat Lee Sedol?](https://ai.gopubby.com/how-did-alphago-beat-lee-sedol-1a160d76612b?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [Unleash Your AI Agent: Automate Time Tracking With LangGraph and Meta Llama 3](https://generativeai.pub/unleash-your-ai-agent-automate-time-tracking-with-langgraph-and-meta-llama-3-f697b363b0ec?source=rss-e42a3542bc38------2)
 - [How To Conquer the 2024 Certified Kubernetes Security Specialist &lpar;CKS&rpar; Exam](https://itnext.io/how-to-conquer-the-2024-certified-kubernetes-security-specialist-cks-exam-13d3a4c02575?source=rss-e42a3542bc38------2)
 - [Mastering Kubernetes Audit Logs](https://itnext.io/mastering-kubernetes-audit-logs-9b02e9603a3b?source=rss-e42a3542bc38------2)
-- [Securing Kubernetes With OPA Gatekeeper](https://itnext.io/securing-kubernetes-with-opa-gatekeeper-4f2e05c441a4?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
