@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [KubeVox: Sub-200ms Kubernetes Voice Control with Local Llama 3](https://generativeai.pub/kubevox-sub-200ms-kubernetes-voice-control-with-local-llama-3-d9baed31d62b?source=rss-e42a3542bc38------2)
 - [Affordable KubeWhisper: Simple Voice Control for Kubernetes Clusters](https://ai.gopubby.com/affordable-kubewhisper-simple-voice-control-for-kubernetes-clusters-70c9345eb8c3?source=rss-e42a3542bc38------2)
 - [Whisper to Your Kubernetes Cluster: Building KubeWhisper, the Voice-Activated AI Assistant](https://generativeai.pub/whisper-to-your-kubernetes-cluster-building-kubewhisper-the-voice-activated-ai-assistant-9ef33c0426d2?source=rss-e42a3542bc38------2)
 - [Unlock Your Next Read: AI Agent-Powered Book Recommendations From Your Bookshelf](https://ai.gopubby.com/unlock-your-next-read-ai-agent-powered-book-recommendations-from-your-bookshelf-8ba059435fba?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [AI on Your Terms: Privacy-Focused LLM Deployment with Meta’s Llama 3 and Node.js](https://generativeai.pub/ai-on-your-terms-privacy-focused-llm-deployment-with-metas-llama-3-and-node-js-615af33087c7?source=rss-e42a3542bc38------2)
 - [AI Agent for Smart Home Climate Control: Harnessing Botanical Strategies for Energy Efficiency](https://generativeai.pub/ai-agent-for-smart-home-climate-control-harnessing-botanical-strategies-for-energy-efficiency-47d4e55d5e7f?source=rss-e42a3542bc38------2)
 - [Developers on Autopilot: How AI Assistants Are Transforming Software Development](https://generativeai.pub/developers-on-autopilot-how-ai-assistants-are-transforming-software-development-df1479e4999c?source=rss-e42a3542bc38------2)
-- [Unleash Your AI Agent: Automate Time Tracking With LangGraph and Meta Llama 3](https://generativeai.pub/unleash-your-ai-agent-automate-time-tracking-with-langgraph-and-meta-llama-3-f697b363b0ec?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
