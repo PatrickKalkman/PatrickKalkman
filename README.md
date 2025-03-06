@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [The Friendly Hacker Who Saved Our Company](https://levelup.gitconnected.com/the-friendly-hacker-who-saved-our-company-d355c28af1e8?source=rss-e42a3542bc38------2)
 - [Anthropic MCP: Extinguish Encoding Fires &amp; Sleep Soundly](https://generativeai.pub/anthropic-mcp-extinguish-encoding-fires-sleep-soundly-dedab6dc182b?source=rss-e42a3542bc38------2)
 - [Unlock Stunning Photo Locations With This AI-Powered Agent](https://generativeai.pub/unlock-stunning-photo-locations-with-this-ai-powered-agent-db18f4a153d2?source=rss-e42a3542bc38------2)
 - [KubeVox: Sub-200ms Kubernetes Voice Control with Local Llama 3](https://generativeai.pub/kubevox-sub-200ms-kubernetes-voice-control-with-local-llama-3-d9baed31d62b?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [GitSage: An AI Agent for Automated Release Notes](https://ai.gopubby.com/gitsage-an-ai-agent-for-automated-release-notes-0b6a5efb5c79?source=rss-e42a3542bc38------2)
 - [Building Your Own DI Framework in Python — From Principles to Practice](https://itnext.io/building-your-own-di-framework-in-python-from-principles-to-practice-a82c63bbdad7?source=rss-e42a3542bc38------2)
 - [How Did AlphaGo Beat Lee Sedol?](https://ai.gopubby.com/how-did-alphago-beat-lee-sedol-1a160d76612b?source=rss-e42a3542bc38------2)
-- [AI on Your Terms: Privacy-Focused LLM Deployment with Meta’s Llama 3 and Node.js](https://generativeai.pub/ai-on-your-terms-privacy-focused-llm-deployment-with-metas-llama-3-and-node-js-615af33087c7?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
