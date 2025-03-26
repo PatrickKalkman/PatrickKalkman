@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Watch 5 AI Frameworks Evolve: A Stunning Visual History](https://generativeai.pub/watch-5-ai-frameworks-evolve-a-stunning-visual-history-7e7268766a82?source=rss-e42a3542bc38------2)
 - [Good News, Devs: AI Makes You More Valuable](https://generativeai.pub/good-news-devs-ai-makes-you-more-valuable-cc0044ba8fe6?source=rss-e42a3542bc38------2)
 - [15 Buttons to AI Chaos: Build a Connect 3 Stream Deck Game](https://generativeai.pub/15-buttons-to-ai-chaos-build-a-connect-3-stream-deck-game-6e2d80594913?source=rss-e42a3542bc38------2)
 - [The Friendly Hacker Who Saved Our Company](https://levelup.gitconnected.com/the-friendly-hacker-who-saved-our-company-d355c28af1e8?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [Affordable KubeWhisper: Simple Voice Control for Kubernetes Clusters](https://ai.gopubby.com/affordable-kubewhisper-simple-voice-control-for-kubernetes-clusters-70c9345eb8c3?source=rss-e42a3542bc38------2)
 - [Whisper to Your Kubernetes Cluster: Building KubeWhisper, the Voice-Activated AI Assistant](https://generativeai.pub/whisper-to-your-kubernetes-cluster-building-kubewhisper-the-voice-activated-ai-assistant-9ef33c0426d2?source=rss-e42a3542bc38------2)
 - [Unlock Your Next Read: AI Agent-Powered Book Recommendations From Your Bookshelf](https://ai.gopubby.com/unlock-your-next-read-ai-agent-powered-book-recommendations-from-your-bookshelf-8ba059435fba?source=rss-e42a3542bc38------2)
-- [GitSage: An AI Agent for Automated Release Notes](https://ai.gopubby.com/gitsage-an-ai-agent-for-automated-release-notes-0b6a5efb5c79?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
