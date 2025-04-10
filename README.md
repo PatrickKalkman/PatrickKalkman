@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [EnCodex: How AI is Revolutionizing Video Streaming Quality](https://ai.gopubby.com/encodex-how-ai-is-revolutionizing-video-streaming-quality-b69f0c95b8fa?source=rss-e42a3542bc38------2)
 - [My Terminal AI Sidekick: Building Djin To Reclaim Coding Time](https://levelup.gitconnected.com/my-terminal-ai-sidekick-building-djin-to-reclaim-coding-time-b82c5f85a4a5?source=rss-e42a3542bc38------2)
 - [Watch 5 AI Frameworks Evolve: A Stunning Visual History](https://generativeai.pub/watch-5-ai-frameworks-evolve-a-stunning-visual-history-7e7268766a82?source=rss-e42a3542bc38------2)
 - [Good News, Devs: AI Makes You More Valuable](https://generativeai.pub/good-news-devs-ai-makes-you-more-valuable-cc0044ba8fe6?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [Unlock Stunning Photo Locations With This AI-Powered Agent](https://generativeai.pub/unlock-stunning-photo-locations-with-this-ai-powered-agent-db18f4a153d2?source=rss-e42a3542bc38------2)
 - [KubeVox: Sub-200ms Kubernetes Voice Control with Local Llama 3](https://generativeai.pub/kubevox-sub-200ms-kubernetes-voice-control-with-local-llama-3-d9baed31d62b?source=rss-e42a3542bc38------2)
 - [Affordable KubeWhisper: Simple Voice Control for Kubernetes Clusters](https://ai.gopubby.com/affordable-kubewhisper-simple-voice-control-for-kubernetes-clusters-70c9345eb8c3?source=rss-e42a3542bc38------2)
-- [Whisper to Your Kubernetes Cluster: Building KubeWhisper, the Voice-Activated AI Assistant](https://generativeai.pub/whisper-to-your-kubernetes-cluster-building-kubewhisper-the-voice-activated-ai-assistant-9ef33c0426d2?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
