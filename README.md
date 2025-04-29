@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [EU AI Act: Builders and Deployers, Both on the Hook](https://ai.gopubby.com/eu-ai-act-builders-and-deployers-both-on-the-hook-154dda1a7436?source=rss-e42a3542bc38------2)
 - [AI‑Ready Software Architecture: Ship Faster by Design](https://levelup.gitconnected.com/ai-ready-software-architecture-ship-faster-by-design-f5e6006630ac?source=rss-e42a3542bc38------2)
 - [EnCodex: How AI is Revolutionizing Video Streaming Quality](https://ai.gopubby.com/encodex-how-ai-is-revolutionizing-video-streaming-quality-b69f0c95b8fa?source=rss-e42a3542bc38------2)
 - [My Terminal AI Sidekick: Building Djin To Reclaim Coding Time](https://levelup.gitconnected.com/my-terminal-ai-sidekick-building-djin-to-reclaim-coding-time-b82c5f85a4a5?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [The Friendly Hacker Who Saved Our Company](https://levelup.gitconnected.com/the-friendly-hacker-who-saved-our-company-d355c28af1e8?source=rss-e42a3542bc38------2)
 - [Anthropic MCP: Extinguish Encoding Fires &amp; Sleep Soundly](https://generativeai.pub/anthropic-mcp-extinguish-encoding-fires-sleep-soundly-dedab6dc182b?source=rss-e42a3542bc38------2)
 - [Unlock Stunning Photo Locations With This AI-Powered Agent](https://generativeai.pub/unlock-stunning-photo-locations-with-this-ai-powered-agent-db18f4a153d2?source=rss-e42a3542bc38------2)
-- [KubeVox: Sub-200ms Kubernetes Voice Control with Local Llama 3](https://generativeai.pub/kubevox-sub-200ms-kubernetes-voice-control-with-local-llama-3-d9baed31d62b?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
