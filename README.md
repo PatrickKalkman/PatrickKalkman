@@ -28,6 +28,7 @@
 <br>
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [NIS2: What Every Developer and Tech Lead Needs To Know Right Now](https://levelup.gitconnected.com/nis2-what-every-developer-and-tech-lead-needs-to-know-right-now-796028926d8f?source=rss-e42a3542bc38------2)
 - [EU AI Act: Builders and Deployers, Both on the Hook](https://ai.gopubby.com/eu-ai-act-builders-and-deployers-both-on-the-hook-154dda1a7436?source=rss-e42a3542bc38------2)
 - [AI‑Ready Software Architecture: Ship Faster by Design](https://levelup.gitconnected.com/ai-ready-software-architecture-ship-faster-by-design-f5e6006630ac?source=rss-e42a3542bc38------2)
 - [EnCodex: How AI is Revolutionizing Video Streaming Quality](https://ai.gopubby.com/encodex-how-ai-is-revolutionizing-video-streaming-quality-b69f0c95b8fa?source=rss-e42a3542bc38------2)
@@ -37,5 +38,4 @@
 - [15 Buttons to AI Chaos: Build a Connect 3 Stream Deck Game](https://generativeai.pub/15-buttons-to-ai-chaos-build-a-connect-3-stream-deck-game-6e2d80594913?source=rss-e42a3542bc38------2)
 - [The Friendly Hacker Who Saved Our Company](https://levelup.gitconnected.com/the-friendly-hacker-who-saved-our-company-d355c28af1e8?source=rss-e42a3542bc38------2)
 - [Anthropic MCP: Extinguish Encoding Fires &amp; Sleep Soundly](https://generativeai.pub/anthropic-mcp-extinguish-encoding-fires-sleep-soundly-dedab6dc182b?source=rss-e42a3542bc38------2)
-- [Unlock Stunning Photo Locations With This AI-Powered Agent](https://generativeai.pub/unlock-stunning-photo-locations-with-this-ai-powered-agent-db18f4a153d2?source=rss-e42a3542bc38------2)
 <!-- BLOG-POST-LIST:END -->
