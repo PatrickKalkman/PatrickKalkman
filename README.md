@@ -4,8 +4,7 @@
 **PatrickKalkman/PatrickKalkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🗒 I write about my programming journey on [Medium](https://medium.com/@pkalkman)
-- 🔭 I get to work on a super exciting product at [Hoogendoorn](https://www.hoogendoorn.nl/en/iivo/)
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I get to work on a super exciting product at [AION Media](https://aionmedia.com/)
 - 💬 Ask me about Software Architecture, Python, C# & Microsoft .Net Development
 - 📫 How to reach me: patrick at simpletechture.nl
 - 📸 I love to photograph, check my [instagram](https://www.instagram.com/patrick_kalkman.photography/)  
