@@ -5,7 +5,7 @@
 
 - 🗒 I write about my programming journey on [Medium](https://medium.com/@pkalkman)
 - 🔭 I get to work on a super exciting product at [AION Media](https://aionmedia.com/)
-- 🔭 Help my son with his affiliate website at [MySimRig](https://mysimrig.nl)
+- 🔭 Help my son with his affiliate website at [MySimRig](https://mysimrig.nl/)
 - 💬 Ask me about Software Architecture, Python, C# & Microsoft .Net Development
 - 📫 How to reach me: patrick at simpletechture.nl
 - 📸 I love to photograph, check my [instagram](https://www.instagram.com/patrick_kalkman.photography/)  
